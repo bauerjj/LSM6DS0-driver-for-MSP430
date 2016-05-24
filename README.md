@@ -4,6 +4,7 @@ The GUI Composer tool inside of Code Composer Studio is used to graphically disp
 http://mcuhq.com/edit/28/msp430-3-axis-accelerometer-and-gyroscope-example-driver-using-the-lsm6ds0
 
 Sample usage:
+
     #include "LSM6DS0.h"
 
     accelLoad(&x_gyro); // get accelerometer results
