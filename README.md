@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=OGfDyrtRUM8
 
 1. Connect the sensor to the launchpad
 
-<img src="setup.jpg" width="60%" height="60%" />
+<img src="schematic.jpg" width="60%" height="60%" />
 
 2. Clone this repo and open the project inside of CCS
 3. Compile and flash the MSP430
